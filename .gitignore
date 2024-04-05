@@ -1,0 +1,11 @@
+obj
+bin
+*.csproj
+
+Library
+Logs
+Temp
+UserSettings
+
+.DS_Store
+.idea
