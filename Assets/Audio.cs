@@ -17,7 +17,7 @@ public class Audio : MonoBehaviour
 
     void Start()
     {
-        _text.text = new string(new []{'\u1118', '\u116A', '\u11AE'});
+        _text.text = new string(new []{'\u1118', '\u116A', '\u11AE', '\uF5C9'});
         angularFrequency = 2 * Mathf.PI * frequency / sampleRate;
     }
 
